@@ -1,4 +1,11 @@
 # Technical Support Fundamentals - System Check & Troubleshooting Report
+Introduction
+
+This assessment demonstrates fundamental technical support skills through a practical system check and troubleshooting task performed on a Windows operating system. The objective was to gather and document system specifications, verify network configuration, test internet connectivity, simulate a network-related issue, and apply structured troubleshooting steps to resolve the problem.
+
+Standard command-line tools such as systeminfo, ipconfig, and ping were used to analyze system performance and network status. A controlled issue was created by disabling the network adapter, and systematic troubleshooting techniques were applied to restore connectivity.
+
+This report presents the findings, supporting screenshots, and a clear explanation of the steps followed to diagnose and resolve the issue.
 
 ## 1. System Information
 - Operating System:
@@ -46,4 +53,9 @@ Request timed out
 Final Result:
 Internet successfully restored.
 <img width="299" height="125" alt="Connection enabled" src="https://github.com/user-attachments/assets/00c1f06c-0951-492e-ae96-1a581e9ca44b" />
+
+Conclusion
+The assessment demonstrated the ability to perform essential technical support tasks, including checking system specifications, verifying network configuration, testing internet connectivity, simulating a network issue, and applying effective troubleshooting steps.
+
+By systematically analyzing the system and resolving the simulated problem, the exercise reinforced practical skills in diagnosing and fixing network-related issues. The findings, along with supporting screenshots, confirm that the troubleshooting process successfully restored connectivity and highlighted the importance of structured problem-solving in technical support.
 
