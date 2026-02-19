@@ -7,11 +7,7 @@
 - RAM:
 - System Type:
 
-<img width="511" height="28" alt="OS Name" src="https://github.com/user-attachments/assets/a0a3d05b-611d-45ea-8d6f-78a06b7af220" />
-<img width="480" height="25" alt="Version" src="https://github.com/user-attachments/assets/69d2376a-3ac9-49f4-aa48-2fb5b8835a0d" />
-<img width="716" height="32" alt="Processor" src="https://github.com/user-attachments/assets/ffce5295-4cba-4979-a175-f42a5f45fd98" />
-<img width="532" height="25" alt="RAM Installed" src="https://github.com/user-attachments/assets/87d0923f-c546-4b01-9297-6074e59ed333" />
-<img width="439" height="25" alt="System Type" src="https://github.com/user-attachments/assets/b2f1dbe3-2d8f-43c6-8067-0aa6142f62d9" />
+<img width="1475" height="691" alt="image" src="https://github.com/user-attachments/assets/ba6f3183-662f-4d6e-93ee-91bf14af154a" />
 
 
 ## 2. Network Configuration
